@@ -2,7 +2,7 @@
 //  File Name : calculator.xcodeproj
 //  Created by Maria Metrina on 2019-09-30.
 //  Student ID : 301089997
-//  App description : Calculator for basic arithmetic operations
+//  App description : Calculator for basic arithmetic calculations
 //  Version : 1.0
 //  Copyright © 2019 CentennialCollege. All rights reserved.
 
